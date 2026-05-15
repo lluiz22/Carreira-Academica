@@ -16,7 +16,7 @@
 
 <p>
         <strong>GOOGLE SITES :</strong>
-        <a href="https://sites.google.com/view/eduardo-dias-da-silva-e-s/página-inicial" target="_blank">Google Sites</a>
+        <a href="https://sites.google.com/view/luizcludio/p%C3%A1gina-inicial" target="_blank">Google Sites</a>
       </p>
     </hr>
 </section>
