@@ -11,7 +11,7 @@
 
 <p>
         <strong>APRESENTAÇÕES :</strong>
-        <a href="https://docs.google.com/presentation/d/1Q6mGSXHl12KJtnikyQLyr3QD5BPR9Anb7WocAQkPmos/edit?usp=sharing" target="_blank">Apresentações</a>
+        <a href="https://docs.google.com/presentation/d/1O9wB1o4AnjXyVe7TH6muWiQ4Rkve6_lFcW7wlPFFT_w/edit?usp=sharing" target="_blank">Apresentações</a>
     </p>
 
 <p>
