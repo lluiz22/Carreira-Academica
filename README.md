@@ -6,7 +6,7 @@
 
 <p>
         <strong>DOCS :</strong>
-        <a href="https://docs.google.com/document/d/1TewcDhbMkUbLcudgAkhG7xWzRMnX9egpObv2Ew4MPk4/edit?usp=sharing" target="_blank">Docs</a>
+        <a href="https://docs.google.com/document/d/1CXDKR2tXlcWcITKCfpWRlLk_hVyjiM45-8boaMEf3sA/edit?usp=sharing" target="_blank">Docs</a>
     </p>
 
 <p>
